@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "8.0.3",
-  "description": "Angular 10 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "workbench",
+  "version": "0.0.1",
+  "description": "Options Work Bench with Angular 10 with Electron (Typescript + SASS + Hot Reload)",
+  "homepage": "https://github.com/gszaboky/workbench",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "George Szaboky",
+    "email": "gszaboky@gmail.com"
   },
   "keywords": [
     "angular",
